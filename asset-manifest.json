@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/NghiepABC/FruitSite-React/static/js/main.007c11ad.chunk.js",
+    "main.js.map": "/NghiepABC/FruitSite-React/static/js/main.007c11ad.chunk.js.map",
+    "runtime-main.js": "/NghiepABC/FruitSite-React/static/js/runtime-main.a2826368.js",
+    "runtime-main.js.map": "/NghiepABC/FruitSite-React/static/js/runtime-main.a2826368.js.map",
+    "static/css/2.cbcdcc15.chunk.css": "/NghiepABC/FruitSite-React/static/css/2.cbcdcc15.chunk.css",
+    "static/js/2.4f27535e.chunk.js": "/NghiepABC/FruitSite-React/static/js/2.4f27535e.chunk.js",
+    "static/js/2.4f27535e.chunk.js.map": "/NghiepABC/FruitSite-React/static/js/2.4f27535e.chunk.js.map",
+    "index.html": "/NghiepABC/FruitSite-React/index.html",
+    "static/css/2.cbcdcc15.chunk.css.map": "/NghiepABC/FruitSite-React/static/css/2.cbcdcc15.chunk.css.map",
+    "static/js/2.4f27535e.chunk.js.LICENSE.txt": "/NghiepABC/FruitSite-React/static/js/2.4f27535e.chunk.js.LICENSE.txt",
+    "static/media/banner-1.8143368e.jpg": "/NghiepABC/FruitSite-React/static/media/banner-1.8143368e.jpg",
+    "static/media/banner-2.3447f008.jpg": "/NghiepABC/FruitSite-React/static/media/banner-2.3447f008.jpg",
+    "static/media/banner-intro.d729564c.jpg": "/NghiepABC/FruitSite-React/static/media/banner-intro.d729564c.jpg",
+    "static/media/breadcrumb.8a1bc7f4.jpg": "/NghiepABC/FruitSite-React/static/media/breadcrumb.8a1bc7f4.jpg",
+    "static/media/dried-fruit.a199ddb3.avif": "/NghiepABC/FruitSite-React/static/media/dried-fruit.a199ddb3.avif",
+    "static/media/fresh-fruit.229c8f0f.avif": "/NghiepABC/FruitSite-React/static/media/fresh-fruit.229c8f0f.avif",
+    "static/media/juice.175f2fd7.avif": "/NghiepABC/FruitSite-React/static/media/juice.175f2fd7.avif",
+    "static/media/organic-meal.43d43f57.avif": "/NghiepABC/FruitSite-React/static/media/organic-meal.43d43f57.avif",
+    "static/media/slick-theme.css": "/NghiepABC/FruitSite-React/static/media/slick.c94f7671.ttf",
+    "static/media/typical-img-1.6b842c57.jpg": "/NghiepABC/FruitSite-React/static/media/typical-img-1.6b842c57.jpg",
+    "static/media/typical-img-2.14bad880.jpg": "/NghiepABC/FruitSite-React/static/media/typical-img-2.14bad880.jpg",
+    "static/media/typical-img-3.55daecde.jpg": "/NghiepABC/FruitSite-React/static/media/typical-img-3.55daecde.jpg",
+    "static/media/vegetable.d4297ced.avif": "/NghiepABC/FruitSite-React/static/media/vegetable.d4297ced.avif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2826368.js",
+    "static/css/2.cbcdcc15.chunk.css",
+    "static/js/2.4f27535e.chunk.js",
+    "static/js/main.007c11ad.chunk.js"
+  ]
+}
