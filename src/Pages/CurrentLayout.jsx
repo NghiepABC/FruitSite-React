@@ -8,7 +8,7 @@ import PageNotFound from "./PageNotFound"
 const CurrentLayout = () => {
   return (
     <div>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path="/" element={<Headers/>} >
                     <Route index element={<Home/>} />
