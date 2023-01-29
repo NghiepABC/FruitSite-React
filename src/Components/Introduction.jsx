@@ -464,7 +464,7 @@ const RightIntroComp = () => {
     return (
         <Right>
             <RightTopIntroComp/>
-            {pageCxt.page === "/" && <RightBottomIntroComp/>}
+            {pageCxt.page === "/FruitSite-React" && <RightBottomIntroComp/>}
         </Right>
     )
 }
