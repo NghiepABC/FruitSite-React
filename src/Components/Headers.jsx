@@ -15,7 +15,7 @@ const Headers = () => {
   const windowPathname = window.location.pathname
 
   switch(windowPathname) {
-    case "/FruitSite-React":
+    case "/FruitSite-React/":
       PageID.current = 1
       break
     case "/FruitSite-React/Contact":
